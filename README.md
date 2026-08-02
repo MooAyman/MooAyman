@@ -17,30 +17,13 @@ Passionate about building AI-powered applications, experimenting with Large Lang
 - 💻 Building AI applications with Python
 - 📚 Always learning something new
 
+---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MooAyman&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooAyman&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MooAyman&layout=compact)
-
----
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=MooAyman)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MooAyman)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=MooAyman&label=Profile%20Views&color=0e75b6&style=flat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooAyman&layout=compact&theme=tokyonight)
 
 ---
 
@@ -48,6 +31,13 @@ Passionate about building AI-powered applications, experimenting with Large Lang
 
 - GitHub: https://github.com/MooAyman
 - LinkedIn: https://www.linkedin.com/in/mohamed-ayman-ae
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=MooAyman&label=Profile%20Views&color=0e75b6&style=flat)
+
 <!--
 **MooAyman/MooAyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
