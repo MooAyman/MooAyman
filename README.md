@@ -1,5 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 
+<h3 align="center">
+AI • Machine Learning • LLM Engineering
+</h3>
+
+<p align="center">
+Passionate about building AI-powered applications, experimenting with Large Language Models, and solving real-world problems using Machine Learning.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🤖 Interested in AI, Machine Learning, NLP and LLM Engineering
+- 🌱 Currently learning Prompt Engineering, RAG, AI Agents and MLOps
+- 💻 Building AI applications with Python
+- 📚 Always learning something new
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MooAyman&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MooAyman&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=MooAyman)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=MooAyman)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=MooAyman&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/MooAyman
+- LinkedIn: https://www.linkedin.com/in/mohamed-ayman-ae
 <!--
 **MooAyman/MooAyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
