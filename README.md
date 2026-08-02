@@ -25,10 +25,6 @@ Passionate about building AI-powered applications, experimenting with Large Lang
 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MooAyman&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 GitHub Streak
-
 ![](https://streak-stats.demolab.com?user=MooAyman)
 
 ---
