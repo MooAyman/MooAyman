@@ -21,9 +21,9 @@ Passionate about building AI-powered applications, experimenting with Large Lang
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooAyman&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=MooAyman&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooAyman&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MooAyman&layout=compact&theme=tokyonight)
 
 ---
 
