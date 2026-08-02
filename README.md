@@ -27,6 +27,12 @@ Passionate about building AI-powered applications, experimenting with Large Lang
 
 ---
 
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=MooAyman)
+
+---
+
 ## 📫 Connect with me
 
 - GitHub: https://github.com/MooAyman
