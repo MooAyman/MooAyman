@@ -1,21 +1,53 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 
 <h3 align="center">
-AI • Machine Learning • LLM Engineering
+AI Engineer | Generative AI | LLMs | RAG | AI Agents
 </h3>
 
 <p align="center">
-Passionate about building AI-powered applications, experimenting with Large Language Models, and solving real-world problems using Machine Learning.
+AI Engineer focused on building practical AI applications and reliable AI systems using LLMs, RAG, AI Agents, and tool integrations.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Interested in AI, Machine Learning, NLP and LLM Engineering
-- 🌱 Currently learning Prompt Engineering, RAG, AI Agents and MLOps
-- 💻 Building AI applications with Python
-- 📚 Always learning something new
+* 🤖 Building AI applications with LLMs, RAG, AI Agents, and MCP
+* 🛠️ Working with Python, APIs, Docker, and Kubernetes
+* 🔐 Interested in reliable AI systems, automation, security, and testing
+* 💻 Building practical AI and backend projects
+
+---
+
+## 🧩 Featured Projects
+
+### 📚 Automated Repository Documentation
+
+AI pipeline that automatically collects GitHub/GitLab repositories and generates structured technical documentation.
+
+### 🤖 GitHub MCP Chatbot
+
+AI-powered GitHub chatbot integrating LLMs with the official GitHub MCP server, including human approval for write operations.
+
+### 🧠 Ask AMAN HR
+
+RAG-based HR chatbot using multilingual embeddings and Qdrant for semantic retrieval over HR knowledge.
+
+### 🔄 AMAN Menu Sync
+
+Automated pipeline that fetches AMAN Service Directory data, generates an Excel Visual Menu, and synchronizes it with Google Drive.
+
+---
+
+## 🛠️ Technologies
+
+**AI:** Generative AI • LLMs • RAG • AI Agents • Prompt Engineering • MCP
+
+**Backend & APIs:** Python • FastAPI • REST APIs • Webhooks
+
+**Data & Retrieval:** Qdrant • Embeddings • Semantic Search
+
+**Infrastructure:** Docker • Kubernetes • Git • GitHub • McKinsey ARK
 
 ---
 
